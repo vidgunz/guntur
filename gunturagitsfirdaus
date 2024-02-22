@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en" id="Home">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- fonts awesome-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <!-- fonts poppins-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;600;700&display=swap" rel="stylesheet">
+
+<!-- CSS-->
+<link rel="stylesheet" href="dist/css/style5.css" />
+    <title>6 Pantai Terindah di Indonesia Yang Wajib di Kunjungi</title>
+</head>
+<body>
+<header>
+<div class="navbar">
+    <div class="container">
+        <div class="box-navbar">
+            <div class="logo">
+                <h1>Wisata Indonesia.</h1>
+            </div>
+            <ul class="menu">
+                <li><a href="#Home">Home</a></li>
+                <li><a href="#Services">services</a></li>
+                <li><a href="#Pantai">pantai</a></li>
+                <li class="active"><a href="#Daftar">Daftar</a></li>
+            </ul>
+            <i class="fa-solid fa-bars menu-bar"></i>
+        </div>
+    </div>
+</div>
+
+<div class="hero">
+    <div class="container">
+        <div class="box-hero">
+            <div class="box">
+                <h1>6 Pantai Terindah di<br>Indonesia yang Wajib Anda kunjungi</h1>
+                <p>Pantai terindah di indonesia yang akan kita bahas kali ini tidak hanya bisa menjadi tempat  wisata dengan keluarga tapi juga untuk sekedar melepas lelah di akhir pekan.</p>
+                <button><a href="https://instagram.com/guaf.15">Selengkapnya</a></button>
+            </div>
+            <div class="box">
+                <img src="assets/Hero.png" alt=""
+            </div>
+        </div>
+    </div>
+</div>
+</header>
+
+<!-- services-->
+<div class="services" id="Services">
+    <div class="container">
+        <div class="box-services">
+            <div class="box">
+               <i class="fa-solid fa-coins"></i>
+               <h4>Harga Terjangkau</h4>
+               <P>Anda bisa berlibur kesini mulai dengan harga 600 ribu sampai 2 jutaan untuk jangka waktu 1 hari - 4 hari</P>
+            </div>
+            <div class="box">
+               <i class="fa-solid fa-certificate"></i>
+               <h4>Sudah tersertifikasi</h4>
+               <P>Aman dan terpecaya sudah Tersertifikasi oleh lembaga daerah</P>
+            </div>
+            <div class="box">
+               <i class="fa-solid fa-people-roof"></i>
+               <h4>Mendapat kan teman baru</h4>
+               <P>Mendapatkan teman baru dan beseru-seruan bersama</P>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- pantai-->
+<div class="pantai" id="Pantai">
+    <div class="container">
+        <div class="box-pantai">
+            <div class="box">
+                <img src="assets/Pantai-Pink-Pulau-Komodo.jpg" alt="">
+                <h3>Pantai Pink, Pulau Komodo</h3>
+                <p>pantai dengan hamparan pasir putih dipadu air jernih kebiruan, Disebut pantai pink karna pantai ini memiliki pasir pantai berwarna pink, Warna pink ini konon berasal dari serpihan karang dan biodata lain yang terbawa arus ke daratan dan bercampur dengan pasir pantai. Kamu bisa berpetualang di pantai ini sambil snorkeling atau Diving. </p>
+                <button><a href="https://pantaimerah.com/">Detail</a></button>
+            </div>
+            <div class="box">
+                <img src="assets/Tomini-Bay-Sulawesi.jpg" alt="">
+                <h3>Tomini Bay, Sulawesi</h3>
+                <p>Pada pagi hari,Kamu bisa menikmati matahari terbit kemudian menyapa para nelayan yang pulang dari berlayar. Kamu juga bisa melakukan diving untuk melihat keragaman biota laut yang masih alami. Satu lagi yang nggak boleh ketinggalan,Fresh sefood yang bisa kamu nikmati langsung di restoran yang ada di sekitar pantai.</p>
+                <button><a href="https://www.indonesia.travel/gb/en/destinations/sulawesi/gorontalo/tomini-bay-and-olele-beach">Detail</a></button>
+            </div>
+            <div class="box">
+                <img src="assets/Pantai-Nihiwatu-Sumba.jpg" alt="">
+                <h3>Pantai Nihiwatu, Sumba</h3>
+                <p>Di sini terdapat Nihiwatu Resort yang mengesankan. Beberapa kegiatan yang dapat kamu lakukan di sini antaranya diving, berselancar, menikmati sunset atau bergabung bersama penduduk lokal untuk menangkap gurita dan kepiting, Pantai Nihiwatu masuk dalam urutan ke-17 dalam daftar CNN World's 100 Best Beaches in The World.</p>
+                <button><a href="https://tripsumba.com/pantai/pantai-nihiwatu-sumba-simak/">Detail</a></button>
+            </div>
+            <div class="box">
+                <img src="assets/Pantai-Pandawa-Bali.jpg" alt="">
+                <h3>Pantai Pandawa, Bali</h3>
+                <p>Pantai Pandawa adalah salah satu pantai terpencil di Bali Pantai Terindah, Pantai Pandawa memiliki pasir seputih salju dan air yang jernih. kamu akan dimanjakan oleh olahraga air seperti kano dan paralayang. Kamu juga bisa berenang di air laut yang jernih. jika kamu datang ke sini dibulan Maret, kamu bisa menikmati parade budaya yang diadakan oleh penganut Hindu-Buddha.</p>
+                <button><a href=" https://www.water-sport-bali.com/pantai-pandawa/">Detail</a></button>
+            </div>
+            <div class="box">
+                <img src="assets/Pantai-Derawan-Kalimantan-Timur.jpg" alt="">
+                <h3>Pantai Derawan, kalimantan Timur</h3>
+                <p>Pulau Derawan masuk dalam urutan ke-63 dalam daftar CNN World's 100 Best Beaches in The World, Di pulau Derawan, kamu bisa berenang bersama gelombang penyu di perairannya yang jernih dan menyegarkan. Selain penyu, manta atau ikan pari juga banyak dijumpai di sini. Salah satu pantai terindah di indonesia ini cukup sering dikunjungi turis lokal maupun mancanegara.</p>
+                <button><a href="https://mytrip123.com/pantai-derawan/">Detail</a></button>
+            </div>
+            <div class="box">
+                <img src="assets/Gili-Trawangan.jpg" alt="">
+                <h3>Gili Trawangan, Lombok</h3>
+                <p>Pantai ini Sangant Indah, Pantai Berpasir Putih, koral karang tropis yang indah, Gili Trawangan menawarkan spot-divingyang spektakuler. Pulau ini banyak dikunjungi oleh turis karena spot diving dan snorkelingnya yang indah. Salah satu spot snorkeling yang terkenala adalah Turtle Point di Gili Meno yang merupakan spot terbaik untuk melihat penyu.</p>
+                <button><a href=" https://tirto.id/mengenal-wisata-di-gili-trawangan-lombok-dan-kisaran-biayanya-gp2M">Detail</a></button>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- pantai-->
+
+<!-- Daftar-->
+<div class="Daftar" id="Daftar">
+    <div class="container">
+        <div class="box-Daftar">
+            <h1>Ingin Berlibur? <br> Segera Daftar kan Keluarga / Kerabat anda!!!</h1>
+            <h3>Klik Link di Bawah ini!</h3>
+            <button><i class="fa-brands fa-whatsapp"></i><a href="https://wa.me/6285721806482">whatsapp</a></button>
+            <button><i class="fa-regular fa-envelope"></i><a href="mailto:agis4991@gmail.com">Gmail</a></button>
+            <button><i class="fa-brands fa-instagram"></i><a href="https://instagram.com/guaf.15">instagram</a></button>
+        </div>
+    </div>
+</div>
+
+<!-- footer-->
+<div class="footer">
+    <div class="container">
+        <div class="box-footer">
+            <div class="box">
+                <h2>Selamat Berlibur!!!</h2>
+                <p>beragam tips liburan, kuliner, oleh-oleh, tour & promo. Enjoy life!</p>
+            </div>
+            <div class="box">
+                <h3>Menu</h3>
+                <a href="#home">Home</a>
+                <a href="#services">Services</a>
+                <a href="#pantai">Pantai</a>
+                <a href="#Daftar">Daftar</a>
+            </div>
+            <div class="box">
+                <p>&copy; Copyright by <span>Guntur Agits F, </span> All Rights Reserved, 2023, indonesia</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+ <script src="dist/js/script5.js"></script>
+</body>
+</html>
